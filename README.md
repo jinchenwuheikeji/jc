@@ -61,10 +61,10 @@ chmod +x vnstat_monitor.py
 ```text
 ens5 / monthly
 
-     month           rx    |        tx    |     total    |
+     month         rx   |        tx   |     total   |
 ------------------------+-------------+-------------+
-    2024-03      1.25 GiB |    2.30 GiB |    3.55 GiB |
-    2024-02      31.2 GiB |   42.5 GiB |    73.7 GiB |
+  2024-03      1.25 GiB |    2.30 GiB |    3.55 GiB |
+  2024-02      31.2 GiB |    42.5 GiB |    73.7 GiB |
 ------------------------+-------------+-------------+
 estimated      1.50 GiB |    2.80 GiB |    4.30 GiB |
 ```
